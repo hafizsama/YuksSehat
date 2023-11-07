@@ -1,0 +1,87 @@
+## 1.1 Latar Belakang
+
+  Dikarenakan zaman yang semakin maju dan berkembang usia seseorang,banyak diantara mereka yang sudah mulai 
+mengesampingkan urusan kesehatan,terutamnya yaitu mahasiswa.Terkadang kita kerap menemui beberapa orang yang 
+memiliki pola/gaya hidup yang tidak sehat,dan tidak jarang juga kita jumpai beberapa orang menderita penyakit 
+serius seperti tipus,yang dimana penyakit ini sering diderita oleh mahasiswa.
+?
+  Maka bedasarkan hal di atas saya sebagai mahasiswa UIN Sunan Gunung Djati Bandung prodi IF ingin membuat suatu
+aplikasi yang dimana aplikasi ini dapat membantu banyak orang dalam membangun bahkan menjaga pola hidup sehatnya.
+
+## 1.2. Deksripsi Teknologi Informasi
+  Apliksai akan memuat beberapa hal dasar yang dapat menunjang gaya hidup sehat seseorang,seperti apasih pentingnya 
+hidup sehat?,kenapa sih kita harus sehat?.bagaimana kah kita dapat hidup dengan sehat? dan aplikasi ini juga akan 
+memuat hal-hal seperti motivasi dan pola hidup sehat.
+
+
+## 1.3. Branding
+
+Merk:YukSehat
+Tagline:sehat bersama-sama
+Campign:Bagaimana cara membuat aplikasi ini dapat membuat banyak orang dapat mengimplementasikan pola hidup sehat.
+
+Target user:
+-SU
+-Mahasiswa
+-Orang yang sedang sakit
+-Orang yang ingin menerapkan pola hidup sehat
+
+User experience theme:
+-Mudah
+-Sederhana
+-Bermanfaat
+
+
+## 2. User Story
+
+Sebagai  | Saya ingin bisa | Sehingga | Prioritas
+---      |---              |---       |---
+Pengguna |Dapat membuat akun        |Pengguna dapat memulai sistem|⭐⭐⭐⭐
+Pengguna |Dapat login               |Pengguna dapat masuk ke sistem yang pernah dimulai|⭐⭐⭐⭐
+Pengguna |Dapat mengakses informasi |Dapat memperoleh pemahaman        | ⭐⭐⭐⭐⭐
+Pengguna |Dpat mengisi data         |Dapat melihat persentase kesehatan| ⭐⭐⭐⭐⭐
+Admin    |Memberikan informasi      |Pengguna dapat mengakses informasi tersebut|⭐⭐⭐⭐
+
+
+## 3. Struktur Data
+
+Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+
+```mermaid
+erDiagram
+    RUJAK ||--o{ SAYUR : tersusun
+    PEMBELI ||--|{ RUJAK : beli
+```
+
+## 4. Arsitektur Sistem
+
+Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+
+## 5. Teknologi, Library, dan Framework
+
+bla bla bla
+
+## 6. Desain User Experience dan User Interface
+
+Bisa load image 
+![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+
+## 7. Demonstrasi Video
+
+Link youtube nya
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
